@@ -1,6 +1,6 @@
 ---
 name: Talk proposal
-about: Propose a talk. Maximum of 30 minutes.
+about: Propose a talk. typically 30-60 mins.
 title: ""
 labels: Talk
 assignees: ""
